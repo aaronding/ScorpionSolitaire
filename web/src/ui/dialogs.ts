@@ -161,6 +161,7 @@ export function helpDialog(): Promise<string | null> {
         'Hold the right mouse button on a covered card to see all of it.',
         "If a move makes the game impossible to win, you'll be told. <b>Give Up</b> and the computer finishes the game, taking back moves first if it must.",
         'Every deal has a number; the same number deals the same cards here and in the desktop version.',
+        'Once opened, the game plays offline too. Install it from your browser to start it like an app (on iPhone and iPad: Share, then <b>Add to Home Screen</b>).',
       ),
     ],
     ['Close'],
