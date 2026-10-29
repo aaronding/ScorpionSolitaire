@@ -1,6 +1,6 @@
 This is a Solitaire game I created in 2006 using Java Swing, brought up to date in 2026.
 
-**Play it in your browser: https://aaronding.github.io/ScorpionSolitaire/** (the `web/` folder), or run the desktop version below.
+**Play it in your browser: https://aaronding.github.io/ScorpionSolitaire/** (the `web/` folder), or run the desktop version below. Once opened it plays offline too, and it can be installed like an app.
 
 ![A game of Scorpion Solitaire in progress](docs/screenshot.png)
 
